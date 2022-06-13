@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="boOVIYGKsejuhIo49_aB" name="Page-1">
+        <mxGraphModel dx="734" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="8.2质量管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="质量报告" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+                    <mxGeometry x="275" y="240" width="110" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="4.5监控项目工作" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="350" width="220" height="153" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;h1&gt;p108&lt;/h1&gt;&lt;div&gt;质量报告包含质量管理问题，针对过程、项目和产品的改善建议，纠正措施建议。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="14">
+                    <mxGeometry x="5" y="28" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="4.7结束或项目或阶段" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="350" width="200" height="153" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;h1&gt;p124&lt;/h1&gt;&lt;div&gt;证明可交付成果符合验收标准。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="16">
+                    <mxGeometry x="10" y="28" width="184" height="82" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="5.5确认范围" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="410" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;h1&gt;p165&lt;/h1&gt;&lt;div&gt;质量报告的内容包团队管理或需要上报的全部质量保证事项、改进建议，以及在控制质量过程中发现的情况的概述。&amp;nbsp; 在验收产品之前，需要查看质量报告的内容。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="18">
+                    <mxGeometry x="5" y="30" width="190" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="12.3控制采购" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="530" width="220" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;h1&gt;p495&lt;br&gt;&lt;/h1&gt;&lt;div&gt;用于识别不合规的卖方过程、程序或产品&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="19">
+                    <mxGeometry x="5" y="28" width="190" height="92" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="10.2管理沟通" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="530" width="200" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;h1&gt;p382&lt;/h1&gt;&lt;div&gt;质量报告包括与质量问题、项目和产品改进，以及过程改进的相关信息，这些信息应交给能够采取纠正措施的人员，以便达成项目的质量期望&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="21">
+                    <mxGeometry x="4" y="30" width="190" height="140" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

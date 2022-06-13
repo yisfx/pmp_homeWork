@@ -1,0 +1,154 @@
+<mxfile host="65bd71144e">
+    <diagram id="M00gQYEKArmZg36_rUhW" name="Page-1">
+        <mxGraphModel dx="734" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="120" y="520" as="sourcePoint"/>
+                        <mxPoint x="120" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="冲突等级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="360" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="高" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="210" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="120" y="520" as="sourcePoint"/>
+                        <mxPoint x="590" y="520" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="120" y="520" as="sourcePoint"/>
+                        <mxPoint x="450" y="240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="成员私下解决" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="470" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="项目经理参与、协助，私下解决" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="380" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="正常程序，可使用惩戒措施" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="270" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="解决方式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="540" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="严厉" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="535" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;ol&gt;&lt;li&gt;首先由项目团队成员负责解决&lt;/li&gt;&lt;li&gt;如果冲突升级，项目经理应提供协助，促成满意的解决方案，采用直接合作的方式，今早并通常在私下处理冲突&lt;/li&gt;&lt;li&gt;如果破坏性冲突继续存在，则可使用正是程序，包括采取惩戒措施&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="80" width="340" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;h1&gt;减少冲突的方法&lt;/h1&gt;&lt;p&gt;采用团队基本规则，团队规范及成熟的项目管理实践可以减少冲突的数量.&lt;/p&gt;" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="600" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="650" width="241" height="272" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="15">
+                    <mxGeometry width="241" height="53" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="撤退/回避" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e3c800;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="16">
+                    <mxGeometry width="80" height="53" as="geometry">
+                        <mxRectangle width="80" height="53" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e3c800;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="16">
+                    <mxGeometry x="80" width="81" height="53" as="geometry">
+                        <mxRectangle width="81" height="53" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="LOSE-LOSE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e3c800;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="16">
+                    <mxGeometry x="161" width="80" height="53" as="geometry">
+                        <mxRectangle width="80" height="53" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="15">
+                    <mxGeometry y="53" width="241" height="54" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="缓和/包容" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e3c800;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="20">
+                    <mxGeometry width="80" height="54" as="geometry">
+                        <mxRectangle width="80" height="54" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e3c800;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="20">
+                    <mxGeometry x="80" width="81" height="54" as="geometry">
+                        <mxRectangle width="81" height="54" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="LOSE-LOSE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e3c800;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="20">
+                    <mxGeometry x="161" width="80" height="54" as="geometry">
+                        <mxRectangle width="80" height="54" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="15">
+                    <mxGeometry y="107" width="241" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="妥协/调节" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#82b366;" vertex="1" parent="24">
+                    <mxGeometry width="80" height="59" as="geometry">
+                        <mxRectangle width="80" height="59" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#82b366;" vertex="1" parent="24">
+                    <mxGeometry x="80" width="81" height="59" as="geometry">
+                        <mxRectangle width="81" height="59" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="双方都有收获，但LOSE-LOSE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#82b366;" vertex="1" parent="24">
+                    <mxGeometry x="161" width="80" height="59" as="geometry">
+                        <mxRectangle width="80" height="59" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="15">
+                    <mxGeometry y="166" width="241" height="53" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="强迫/命令" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e51400;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="42">
+                    <mxGeometry width="80" height="53" as="geometry">
+                        <mxRectangle width="80" height="53" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e51400;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="42">
+                    <mxGeometry x="80" width="81" height="53" as="geometry">
+                        <mxRectangle width="81" height="53" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" value="WIN-LOSE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e51400;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="42">
+                    <mxGeometry x="161" width="80" height="53" as="geometry">
+                        <mxRectangle width="80" height="53" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="46" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="15">
+                    <mxGeometry y="219" width="241" height="53" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="合作/&lt;br&gt;解决问题" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#60a917;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="46">
+                    <mxGeometry width="80" height="53" as="geometry">
+                        <mxRectangle width="80" height="53" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#60a917;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="46">
+                    <mxGeometry x="80" width="81" height="53" as="geometry">
+                        <mxRectangle width="81" height="53" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" value="WIN-WIN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#60a917;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="46">
+                    <mxGeometry x="161" width="80" height="53" as="geometry">
+                        <mxRectangle width="80" height="53" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="解决冲突的5中方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="620" width="240" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="770" width="180" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

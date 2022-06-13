@@ -1,0 +1,78 @@
+<mxfile host="65bd71144e">
+    <diagram id="-DepIgeggQ76dOX_fkNN" name="Page-1">
+        <mxGraphModel dx="2768" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="实施采购前" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="20" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;ol&gt;&lt;li&gt;准备采购工作说明书(SOW) 或工作大纲(TOR)&lt;/li&gt;&lt;li&gt;准备高层级的成本估算，指定预算&lt;/li&gt;&lt;li&gt;发布招标广告&lt;/li&gt;&lt;li&gt;确定合格卖方的短名单&lt;/li&gt;&lt;li&gt;准备并发布招标文件&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;&lt;font color=&quot;#1fe9ff&quot; style=&quot;font-size: 18px&quot;&gt;开展投标人会议&lt;/font&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;由卖方准备并提交建议书&lt;/li&gt;&lt;li&gt;对建议书开展技术(包括质量)评估；&lt;/li&gt;&lt;li&gt;对建议书开展成本评估&lt;/li&gt;&lt;li&gt;准备最终的综合评估报告(包括质量及成本)，选出中标建议书&lt;/li&gt;&lt;li&gt;结束谈判，买卖双方签署合同&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+                    <mxGeometry x="-20" y="50" width="410" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;签署合同之后的采购工作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="350" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="管理采购合同关系" style="swimlane;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="440" width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;ul&gt;&lt;li&gt;合同管理&lt;/li&gt;&lt;li&gt;财务管理&lt;/li&gt;&lt;li&gt;采购审计&lt;/li&gt;&lt;li&gt;修改协议&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=12;fontColor=#000000;" vertex="1" parent="5">
+                    <mxGeometry x="5" y="30" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="监督合同绩效" style="swimlane;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="420" width="360" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;ul&gt;&lt;li&gt;绩效审查：对照协议，对质量、资源、进度和成本绩效进行测量、比较和分析，一审查合同工作的绩效。&lt;/li&gt;&lt;li&gt;检查：对承包商正在执行的工作进行结构化审查，可能涉及对可交付成果的简单审查，或对工作本身的实地审查/&lt;/li&gt;&lt;li&gt;审计：对采购过程的结构化审查&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=12;fontColor=#000000;" vertex="1" parent="12">
+                    <mxGeometry y="30" width="360" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="实施必要的变更和纠偏" style="swimlane;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="610" width="160" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;ul&gt;&lt;li&gt;变更请求管理&lt;/li&gt;&lt;li&gt;索赔管理&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=12;fontColor=#000000;" vertex="1" parent="14">
+                    <mxGeometry x="-10" y="30" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="16" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="关闭合同" style="swimlane;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="820" width="200" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;ul&gt;&lt;li&gt;已按时按质按技术要求交付全部可交付成果&lt;/li&gt;&lt;li&gt;没有未决索赔或发票&lt;/li&gt;&lt;li&gt;全部最终款项已经付清&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=12;fontColor=#000000;" vertex="1" parent="16">
+                    <mxGeometry y="20" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=12;fontColor=#000000;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="520" y="680" as="sourcePoint"/>
+                        <mxPoint x="520" y="680" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="280" y="740"/>
+                            <mxPoint x="120" y="680"/>
+                            <mxPoint x="40" y="560"/>
+                            <mxPoint x="40" y="440"/>
+                            <mxPoint x="590" y="370"/>
+                            <mxPoint x="640" y="490"/>
+                            <mxPoint x="610" y="590"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=12;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="16">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="280" y="740" as="sourcePoint"/>
+                        <mxPoint x="120" y="770" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="采购文档更新" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="990" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="组织过程资产更新" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="990" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="16" target="25">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="260" y="980" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

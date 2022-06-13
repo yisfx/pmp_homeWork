@@ -1,0 +1,141 @@
+<mxfile host="65bd71144e">
+    <diagram id="JlzAIjjvgKherLoIit6c" name="Page-1">
+        <mxGraphModel dx="1375" dy="1344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="12" value="" style="swimlane;startSize=0;fontSize=27;fillColor=#99FFFF;fontColor=#333333;strokeColor=#616663;rounded=0;shadow=0;sketch=0;glass=0;swimlaneLine=1;separatorColor=#99FFFF;backgroundOutline=1;" vertex="1" parent="1">
+                    <mxGeometry x="5" width="840" height="240" as="geometry">
+                        <mxRectangle x="10" y="10" width="50" height="40" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="敏捷中的三种角色" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;horizontal=1;" vertex="1" parent="12">
+                    <mxGeometry x="300" y="10" width="260" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;h1 style=&quot;font-size: 13px&quot;&gt;团队成员&lt;/h1&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Developers 是Scrum Team中致力于船舰每个Sprint可用Increment的任何方面的人员。&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Developer是所需的特定技能通常很广泛，并且会随着工作领域的不同而变化&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="12">
+                    <mxGeometry x="5" y="60" width="185" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;h1 style=&quot;font-size: 13px&quot;&gt;敏捷教练&lt;/h1&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Scrum Master负责按照Scrum指南的酉戌土规则来建立Scrum。他们通过帮助Scrum Team 和组织内的每个人理解Scrum理论和实践来做到这一点。&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Scrum Master对Scrum Team的效能负责，他们通过让Scrum team 在 Scrum框架内改进其实践来做到这一点，&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Scrum Masters 是正真过的领导者，服务于ScrumTeam和作为更大范围的组织。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="12">
+                    <mxGeometry x="203" y="50" width="340" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;h1 style=&quot;font-size: 13px&quot;&gt;产品负责人&lt;/h1&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;Product Owner 负责将Scrum Team的工作所产生的产品价值最大化，如何醉倒这一点可能在组织，Scrum Team和个体之间存在很大差异。&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;Product Owner 还负责Product Backlog进行有效管理。&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;Product Owner是一个人，而不是一个委员会，在Product Backlog中，Product Owner 可以代表许多利益攸关者的期望要求。那些想改变Product Backlog的人可以尝试说服Product owner 来做到这一点。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="12">
+                    <mxGeometry x="540" y="50" width="285" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="P5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="12">
+                    <mxGeometry x="625" y="10" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="swimlane;startSize=0;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;strokeColor=#616663;fillColor=#99FFFF;" vertex="1" parent="1">
+                    <mxGeometry x="8" y="490" width="832" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="敏捷中的四大公会议" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=27;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="22">
+                    <mxGeometry x="282" y="10" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;h1 style=&quot;font-size: 13px&quot;&gt;计划会&lt;/h1&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Sprint Planning 通过安排在Sprint中要做的工作来启动Sprint。最终的计划是有整个Scrum Team 写作创建的。&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Product Owner 要切薄与会者准备好讨论最重要的Product backlog条目，以及他们如何映射到Product goal,scrum team 还可以邀请其他人参加Sprint Planning 以提供建议。&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Sprint Planning 处理一下话题：&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;为什么这次Sprint 有价值？&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;这次Sprint 能完成什么？&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;如何完成所选的工作？&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="22">
+                    <mxGeometry x="5" y="60" width="265" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;h1 style=&quot;font-size: 13px&quot;&gt;每日例会&lt;/h1&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Daily Scrum的目的是检视达成Sprint Goal的进展，并根据需要调整适应Sprint backlog,以调整即将进行的工作，&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;DailyScrum是一个属于Scrum Team的Developers 的15分钟的事件。&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Developers 可以选择他们想要的任何举行DailyScrum的结构和技术，主要他们专注一实现Sprint Goal的进展，并为下一个工作日的工作制定可行的计划即可。&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;DailyScrum 改善沟通，发现障碍，促进快速决策，从而消除其他会议的需要。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="22">
+                    <mxGeometry x="280" y="60" width="247" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;h1 style=&quot;font-size: 13px&quot;&gt;评审会&lt;/h1&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Sprint Review 的目的是监视Sprint的成果并确定未来的适应性。Scrum Team 向关键利益攸关者展示他们的工作结果，并讨论 product Goal的进展情况。&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Sprint Review 是Sprint的倒数第二个事件，Sprint Review是有时间和限定的，以一个月的Sprint来说，最多为4个小时。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="22">
+                    <mxGeometry x="530" y="60" width="140" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;h1 style=&quot;font-size: 13px&quot;&gt;反思会&lt;/h1&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Sprint Retrospective 的目的是规划提高质量和有效能的方法。&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Scrum team 检视最近Sprint 中有关个体、交互、过程、工具和他们的Definition of Done，的情况如何。ScrumTeam 识别出最有用的改变以提高其效能。&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Sprint Retrospective 结束Sprint。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="22">
+                    <mxGeometry x="680" y="55" width="147" height="265" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="p7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="22">
+                    <mxGeometry x="642" y="20" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="swimlane;startSize=0;rounded=0;shadow=0;glass=0;sketch=0;fontSize=27;strokeColor=#616663;fillColor=#99FFFF;" vertex="1" parent="1">
+                    <mxGeometry x="8" y="250" width="835" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="敏捷中的三大工件" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=27;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="13">
+                    <mxGeometry x="292" y="5" width="260" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;h1 style=&quot;font-size: 13px&quot;&gt;产品功能列表&lt;/h1&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;product backlog 是一份涌现的和有序的清单，它列出了所改进产品所需的内容。它是Scrum Team所承担工作的唯一来源。&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Product Backlog精华是将product backlog条目分解并进一步定义为更小更精确的行为，这是一项持续进行的活动，为Product backlog条目增添细节，例如描述、优先顺序和规模。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="13">
+                    <mxGeometry x="5" y="60" width="275" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;h1 style=&quot;font-size: 13px&quot;&gt;迭代任务&lt;/h1&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Sprint Blacklog 有Sprint Goal（为什么做）、为Sprint 选择的Product backlog条目（做什么）以及交付Increment的可执行计划（如何做）组成，&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;Sprint Backlog 是Developers 为其指定的计划，它是Developers在Sprint 期间为实现SprintGoal而计划完成的工作，是一个高度可视且实时的工作画面。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="13">
+                    <mxGeometry x="280" y="60" width="270" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;h1 style=&quot;font-size: 13px&quot;&gt;可工作软件/产品增量&lt;/h1&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;一个Increment 是迈向Product Goal的一块坚实垫脚石。每个Increment 都是之前所有的Increment累加起来的，并经过彻底的验证，一切包整合在一起的所有Increment 都能工作，为了提供价值，Increment 必须是可用的。&lt;/p&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;一项工作除非符合Definition of Done，否则不能交期是为Increment 的一部分。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="13">
+                    <mxGeometry x="552" y="60" width="278" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="p10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="13">
+                    <mxGeometry x="632" y="10" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;h1&gt;用户故事 p15&lt;/h1&gt;&lt;p&gt;用户故事是从用户的角度来描述用户渴望得到的功能&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="894" y="180" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="&lt;ul&gt;&lt;li&gt;角色：谁要使用这个功能。&lt;/li&gt;&lt;li&gt;活动：需要完成什么样的功能&lt;/li&gt;&lt;li&gt;商业价值：为什么需要这个功能，这个功能带来什么样的价值&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="1309" y="10" width="300" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="好的用户故事三要素" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;strokeColor=#616663;" vertex="1" parent="1">
+                    <mxGeometry x="1182" y="60" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=13;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="55" parent="1" source="37">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1129" y="110" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="用户故事格式" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;strokeColor=#616663;" vertex="1" parent="1">
+                    <mxGeometry x="1164" y="180" width="145" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=13;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="57" parent="1" source="37">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1209" y="200" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="59" value="&lt;ul&gt;&lt;li&gt;作为&amp;lt;用户角色&amp;gt;，我需要&amp;lt;功能&amp;gt;，以实现&amp;lt;商业价值&amp;gt;&lt;/li&gt;&lt;li&gt;为实现&amp;lt;商业价值&amp;gt;，作为&amp;lt;用户角色&amp;gt;，我需要&amp;lt;功能&amp;gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="1289" y="160" width="350" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="原则" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;strokeColor=#616663;" vertex="1" parent="1">
+                    <mxGeometry x="1182" y="280" width="117" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=13;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="60" parent="1" source="37">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1119" y="320" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="&lt;ul&gt;&lt;li&gt;独立性&lt;/li&gt;&lt;li&gt;可协商性&lt;/li&gt;&lt;li&gt;有价值&lt;/li&gt;&lt;li&gt;可预测性&lt;/li&gt;&lt;li&gt;短小精悍&lt;/li&gt;&lt;li&gt;可测试性&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="1290.5" y="230" width="337" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="&lt;h1&gt;故事点&lt;/h1&gt;&lt;p&gt;&amp;nbsp;基于敏捷的工作量估算，对在Sprint里面要开发的用户故事进行一个粗量级的估算，以便于团队能够知道这个用户故事的复杂度&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="880" y="410" width="596" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="" style="swimlane;startSize=0;rounded=0;shadow=0;glass=0;sketch=0;fontSize=13;strokeColor=#616663;fillColor=#99FFFF;" vertex="1" parent="1">
+                    <mxGeometry y="830" width="440" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="自组织团队" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=27;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="64">
+                    <mxGeometry x="50" y="10" width="300" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="敏捷环境中，所谓自组织是指团队不需要更多的来自外部的激励和约束，无需集中管控约束，每个人都能自动的承担自职责范围内的工作，并在力所能及的情况下给别人以有效的帮助。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;" vertex="1" parent="64">
+                    <mxGeometry x="12" y="40" width="218" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;自组织团队中三个重要角色&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;开发团队&lt;/p&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;敏捷教练&lt;/p&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;产品负责人&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;" vertex="1" parent="64">
+                    <mxGeometry x="262" y="60" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="" style="swimlane;startSize=0;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;strokeColor=#616663;fillColor=#99FFFF;" vertex="1" parent="1">
+                    <mxGeometry x="453" y="830" width="390" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="仆人式领导" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=27;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="69">
+                    <mxGeometry x="30" y="10" width="300" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="一种为团队赋权的方法。&lt;br&gt;通过对团队服务来领导团队的额实践，他注重理解和关注团队的需要和发展，旨在是团队尽可能达到最高绩效" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;" vertex="1" parent="69">
+                    <mxGeometry x="10" y="80" width="166" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="特征&lt;br&gt;提升自我意识&lt;br&gt;倾听&lt;br&gt;为团队服务&lt;br&gt;帮助他人成长&lt;br&gt;引导与控制&lt;br&gt;促进安全、尊重与责任&lt;br&gt;促进他人精力和才智提升" style="text;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;align=left;verticalAlign=top;dashed=1;html=1;" vertex="1" parent="69">
+                    <mxGeometry x="176" y="80" width="190" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="敏捷管理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="5" y="1500" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="最小可能性产品" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;fontSize=14;strokeColor=default;fillColor=#99FFFF;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="1210" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;fontSize=14;strokeColor=default;fillColor=#99FFFF;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="1280" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
